@@ -28,4 +28,7 @@ More patterns coming soon...
 
 ---
 
-## **Project Structure**
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/songwaad/design-patterns-with-java.git
