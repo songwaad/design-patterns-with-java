@@ -5,9 +5,9 @@ The Factory Method Pattern provides an interface for creating objects, but allow
 
 ## Structure
 - **Tea.java** - The interface for tea.
-- **GreenTea.java**, **MilkTea.java** - Concrete implementations of tea.
+- **GreenTea.java**, **MilkTea.java**, **LemonTea.java** - Concrete implementations of tea.
 - **TeaCreator.java** - Abstract class defining the factory method.
-- **GreenTeaCreator.java**, **MilkTeaCreator.java** - Concrete factories.
+- **GreenTeaCreator.java**, **MilkTeaCreator.java**, **LemonTeaCreator.java** - Concrete factories.
 
 ## How to Run
 Navigate to the `src` folder and run the `Main` class:
