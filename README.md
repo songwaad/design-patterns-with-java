@@ -28,4 +28,4 @@ More patterns coming soon...
 
 ---
 
-## **Project Structu
+## **Project Structure**
