@@ -14,3 +14,8 @@ Navigate to the `src` folder and run the `Main` class:
 ```bash
 javac Main.java
 java Main
+```
+
+## Factory Method Diagram
+
+[View Factory Method Diagram (PDF)](creational/factory-method/factory-method-diagram.pdf)
