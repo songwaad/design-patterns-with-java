@@ -18,5 +18,4 @@ java Main
 
 ## Factory Method Diagram
 
-[View Factory Method Diagram](creational/factory-method/factory-method-diagram.pdf)
-[View Factory Method Diagram (PDF)](creational/factory-method/factory-method-diagram.pdf)
+[View Factory Method Diagram (PDF)](factory-method-diagram.pdf)
