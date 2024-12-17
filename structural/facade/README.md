@@ -7,6 +7,13 @@ In this example, the **Avengers** facade class simplifies access to the abilitie
 
 ---
 
+## Class Diagram
+
+Below is the class diagram for the Facade Pattern:
+
+![Facade Diagram](facade-diagram.png)
+---
+
 ## Structure
 
 ### 1. **Facade Class**
