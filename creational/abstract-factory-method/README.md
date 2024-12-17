@@ -9,7 +9,7 @@ The **Abstract Factory Method Pattern** provides an interface for creating famil
 
 Below is the class diagram for the Abstract Factory Method Pattern:
 
-![Abstract Factory Method Diagram](abstract-factory-method.png)
+![Abstract Factory Method Diagram](abstract-factory-method-diagram.png)
 
 ---
 
