@@ -18,7 +18,23 @@ Design Patterns are reusable solutions to common software design problems. They 
 
 ### 1. Creational Patterns
 
-#### 1.1 Abstract Factory Method
+#### 1.1 Factory Method
+- **Location**: `creational/factory-method`
+- **Overview**:  
+  The Factory Method Pattern provides an interface for creating objects, but lets **subclasses** decide which class to instantiate. This promotes loose coupling by eliminating the need to bind application-specific classes into your code.
+- **Structure**:
+  - **Tea (Interface)**  
+    Core interface representing tea.
+  - **Concrete Tea Classes**:  
+    `GreenTea`, `MilkTea`, `LemonTea`
+  - **TeaCreator (Abstract Class)**  
+    Declares the factory method and any shared logic.
+  - **Concrete Creators**:  
+    `GreenTeaCreator`, `MilkTeaCreator`, `LemonTeaCreator`
+
+---
+
+#### 1.2 Abstract Factory Method
 - **Location**: `creational/abstract-factory-method`  
 - **Overview**:  
   The Abstract Factory Method Pattern provides an interface for creating **families of related or dependent objects** without specifying their concrete classes. This decouples the client from the specific implementations of the objects.
@@ -40,7 +56,7 @@ Design Patterns are reusable solutions to common software design problems. They 
 
 ---
 
-#### 1.2 Builder Pattern
+#### 1.3 Builder Pattern
 - **Location**: `creational/builder`
 - **Overview**:  
   The Builder Pattern **separates** the construction of a **complex object** from its representation, allowing the same construction process to create various representations. This pattern is particularly useful when:
@@ -59,20 +75,6 @@ Design Patterns are reusable solutions to common software design problems. They 
     In this example, the final product is a `Computer`.
 
 ---
-
-#### 1.3 Factory Method
-- **Location**: `creational/factory-method`
-- **Overview**:  
-  The Factory Method Pattern provides an interface for creating objects, but lets **subclasses** decide which class to instantiate. This promotes loose coupling by eliminating the need to bind application-specific classes into your code.
-- **Structure**:
-  - **Tea (Interface)**  
-    Core interface representing tea.
-  - **Concrete Tea Classes**:  
-    `GreenTea`, `MilkTea`, `LemonTea`
-  - **TeaCreator (Abstract Class)**  
-    Declares the factory method and any shared logic.
-  - **Concrete Creators**:  
-    `GreenTeaCreator`, `MilkTeaCreator`, `LemonTeaCreator`
 
 ---
 
