@@ -24,8 +24,6 @@ Design Patterns are reusable solutions to common software design problems. They 
 1.4 Prototype - **Location**: `creational/prototype`  
 1.5 Singleton - **Location**: `creational/singleton`
 
----
-
 ### 2. Structural Patterns
 
 2.1 Adapter - **Location**: `structural/adapter`  
