@@ -18,10 +18,10 @@ Design Patterns are reusable solutions to common software design problems. They 
 
 ### 1. Creational Patterns
 
-1.1 Factory Method - **Location**: `creational/factory-method`.
-1.2 Abstract Factory Method - **Location**: `creational/abstract-factory-method`  \n
-1.3 Builder - **Location**: `creational/builder` "\n"
-1.4 Prototype - **Location**: `creational/prototype` //
+1.1 Factory Method - **Location**: `creational/factory-method` <br>
+1.2 Abstract Factory Method - **Location**: `creational/abstract-factory-method` 
+1.3 Builder - **Location**: `creational/builder` 
+1.4 Prototype - **Location**: `creational/prototype`  
 1.5 Singleton - **Location**: `creational/singleton`
 
 ---
