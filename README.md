@@ -18,20 +18,7 @@ Design Patterns are reusable solutions to common software design problems. They 
 
 ### 1. Creational Patterns
 
-#### 1.1 Factory Method
-- **Location**: `creational/factory-method`
-- **Overview**:  
-  The Factory Method Pattern provides an interface for creating objects, but lets **subclasses** decide which class to instantiate. This promotes loose coupling by eliminating the need to bind application-specific classes into your code.
-- **Structure**:
-  - **Tea (Interface)**  
-    Core interface representing tea.
-  - **Concrete Tea Classes**:  
-    `GreenTea`, `MilkTea`, `LemonTea`
-  - **TeaCreator (Abstract Class)**  
-    Declares the factory method and any shared logic.
-  - **Concrete Creators**:  
-    `GreenTeaCreator`, `MilkTeaCreator`, `LemonTeaCreator`
-
+#### 1.1 Factory Method - **Location**: `creational/factory-method`
 ---
 
 #### 1.2 Abstract Factory Method
