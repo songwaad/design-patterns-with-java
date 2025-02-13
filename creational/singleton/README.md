@@ -1,6 +1,15 @@
-**Singleton Pattern**
+# Singleton Pattern**
+
    - **Diagram Description:**
      The Singleton pattern ensures that a class has only one instance and provides a global point of access to that instance. This pattern is particularly useful for cases where you need to coordinate actions across the system or access shared resources.
+
+- **Class Diagram**
+
+The class diagram below illustrates the structure of the Singleton Pattern implemented in this example:
+
+![Singleton Pattern Diagram](singleton-diagram.png)
+
+---
 
    - **Classes Involved:**
      - `MinisterOfInterior`: A singleton class that ensures only one instance of the `MinisterOfInterior` exists.
