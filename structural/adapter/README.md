@@ -1,10 +1,11 @@
 # Adapter Pattern
    - **Diagram Description:**
+     
      The Adapter pattern is used to convert one interface into another that a client expects. It allows classes with incompatible interfaces to work together by providing a wrapper or adapter class.
 
   - **Class Diagram**
 
-  Below is the class diagram for the Adapter Pattern:
+     Below is the class diagram for the Adapter Pattern:
 
 ![Adapter Diagram](adapter-diagram.png)
 
