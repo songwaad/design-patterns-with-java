@@ -1,5 +1,6 @@
 # Prototype Pattern
    - **Diagram Description:**
+     
      The Prototype pattern is used to create objects based on a template or prototype. It allows cloning of objects without needing to know their exact class type. This pattern is often used to create copies of complex objects efficiently.
 
 - **Class Diagram**
