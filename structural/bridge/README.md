@@ -5,7 +5,7 @@
   
   - **Class Diagram**
     
-  Below is the class diagram for the Bridge Pattern:
+     Below is the class diagram for the Bridge Pattern:
 
 ![Bridge Diagram](bridge-diagram.png)
 
