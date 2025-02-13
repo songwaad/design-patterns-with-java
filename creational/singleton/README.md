@@ -9,8 +9,6 @@
 
 ![Singleton Pattern Diagram](singleton-diagram.png)
 
----
-
    - **Classes Involved:**
      - `MinisterOfInterior`: A singleton class that ensures only one instance of the `MinisterOfInterior` exists.
      - `Person`: A class representing a person, which is used by `MinisterOfInterior` to define the minister.
