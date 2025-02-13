@@ -1,8 +1,10 @@
 # Bridge Pattern
    - **Diagram Description:**
+     
      The Bridge pattern decouples an abstraction from its implementation, allowing the two to vary independently. This pattern is typically used when you need to separate a class’s abstraction (interface) from the details of how it is implemented.
   
   - **Class Diagram**
+    
   Below is the class diagram for the Bridge Pattern:
 
 ![Bridge Diagram](bridge-diagram.png)
