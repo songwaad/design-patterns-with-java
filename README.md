@@ -27,8 +27,11 @@ Design Patterns are reusable solutions to common software design problems. They 
 ### 2. Structural Patterns
 
 2.1 Adapter - **Location**: `structural/adapter`  
-2.1 Bridge - **Location**: `structural/bridge`  
-2.1 Facade - **Location**: `structural/facade`  
+2.2 Bridge - **Location**: `structural/bridge`  
+2.3 Composite - **Location**: `structural/composite`  
+2.4 Decorator - **Location**: `structural/decorator`  
+2.5 Facade - **Location**: `structural/facade`  
+2.6 Proxy - **Location**: `structural/proxy` 
 
 ---
 
